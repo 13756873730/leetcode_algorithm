@@ -1,6 +1,6 @@
 class Solution:
     def findKthLargest(self, nums, k: int) -> int:
-        return 0
+        return 1
 
 
 if __name__ == '__main__':
